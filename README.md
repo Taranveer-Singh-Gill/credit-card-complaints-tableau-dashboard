@@ -8,7 +8,7 @@ An interactive **Tableau dashboard** designed to analyze credit card consumer co
 
 ## Dashboard Preview
 
-![Credit Card Complaints Dashboard](images/dashboard.png)
+![Credit Card Complaints Dashboard](Images/dashboard.png)
 
 ---
 
